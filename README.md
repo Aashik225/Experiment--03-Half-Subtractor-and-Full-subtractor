@@ -43,9 +43,9 @@ End the verilog program using keyword endmodule.
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: 
+Developed by: JOSEPH AASIK SALMAN M 
 
-RegisterNumber:  
+RegisterNumber:  23005611
 */
 
 ## Halfsubtractor:
@@ -72,31 +72,31 @@ endmodule
 
 ## Halfsubtractor:
 
-![image](
+![image](https://raw.githubusercontent.com/Aashik225/Experiment--03-Half-Subtractor-and-Full-subtractor/main/hs.png)
 
 ##  FullSubtractor:
 
-![image](
+![image](https://raw.githubusercontent.com/Aashik225/Experiment--03-Half-Subtractor-and-Full-subtractor/main/Screenshot%202024-01-02%20200303.png)
 
 ##  RTL realization
 
 ## Halfsubtractor:
 
-![image](
+![image](https://raw.githubusercontent.com/Aashik225/Experiment--03-Half-Subtractor-and-Full-subtractor/main/hs%20(2).png)
 
 ##  FullSubtractor:
 
-![image](
+![image](https://raw.githubusercontent.com/Aashik225/Experiment--03-Half-Subtractor-and-Full-subtractor/main/Screenshot%202024-01-02%20200321.png)
 
 ## Timing diagram 
 
 ## Halfsubtractor:
 
-![image](
+![image](https://raw.githubusercontent.com/Aashik225/Experiment--03-Half-Subtractor-and-Full-subtractor/main/hs%20(3).png)
 
 ##  FullSubtractor:
 
-![image](
+![image](https://raw.githubusercontent.com/Aashik225/Experiment--03-Half-Subtractor-and-Full-subtractor/main/Screenshot%202024-01-02%20200332.png)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
